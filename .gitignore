@@ -1,0 +1,38 @@
+# Node.js Dependencies & Builds
+node_modules/
+dist/
+build/
+.next/
+
+# Python Cache & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Environment Variables & Sensitive Credentials
+.env
+.env.local
+.env.*.local
+user_settings.json
+backend/app/user_settings.json
+
+# IDE / Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Agent Logs & System Cache
+.agents/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

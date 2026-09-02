@@ -1,0 +1,32 @@
+{
+  "papaji": {
+    "name": "Papaji",
+    "phone": "+919926363360",
+    "aliases": ["papaji", "papa ji", "papa", "dad", "father", "pop", "pappa", "paji"],
+    "relation": "Father"
+  },
+  "mummy": {
+    "name": "Mummy",
+    "phone": "+918349223467",
+    "aliases": ["mummy", "mummy ji", "mom", "mother", "maa", "mumma", "mami"],
+    "relation": "Mother"
+  },
+  "gourav": {
+    "name": "Gourav",
+    "phone": "+919770475509",
+    "aliases": ["gourav", "gaurav", "gorav", "gourav sahu", "gaurav sahu", "bhai", "bhaiya"],
+    "relation": "Brother / Friend"
+  },
+  "sourabh": {
+    "name": "Sourabh Sahu",
+    "phone": "+919770475509",
+    "aliases": ["sourabh", "saurabh", "me", "myself"],
+    "relation": "Self"
+  },
+  "mentor": {
+    "name": "Dr. Neelam Arya",
+    "phone": "+919876543213",
+    "aliases": ["mentor", "neelam", "arya", "ma'am", "mam", "dr. neelam"],
+    "relation": "Mentor"
+  }
+}
